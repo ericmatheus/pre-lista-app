@@ -11,7 +11,11 @@ PreListaApp é um aplicativo Android desenvolvido em **Kotlin** com **Jetpack Co
 ---
 
 ## 📸 Capturas de Tela
-*(Adicione imagens aqui, se quiser)*
+<img width="322" height="767" alt="Image" src="https://github.com/user-attachments/assets/784b4b8d-0a26-4e4a-9c61-067d9fc825f4" />
+<img width="312" height="770" alt="Image" src="https://github.com/user-attachments/assets/f973a078-425b-4824-a63d-3455643c15b3" />
+<img width="319" height="756" alt="Image" src="https://github.com/user-attachments/assets/d48ef419-fdd2-4241-94b2-8ad0847dfa78" />
+
+
 
 ---
 
