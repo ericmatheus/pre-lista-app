@@ -75,8 +75,7 @@ PreListaApp/
 **Eric Matheus**  
 📍 Brasília, DF  
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-💻 Atualmente cursando Ciências da Computação  
-📬 Contato: _adicione aqui seu e-mail ou LinkedIn se quiser_
+📬 Contato: [Linkedin](https://www.linkedin.com/in/ericmatheusds/) Email: ericmangabeira@gmail.com
 
 ---
 
